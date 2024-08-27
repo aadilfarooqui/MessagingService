@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="messaging-service:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/messaging_service_jar</output-path>
+    <root id="archive" name="messaging-service.jar">
+      <element id="module-output" name="messaging-service" />
+    </root>
+  </artifact>
+</component>
